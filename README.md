@@ -1,2 +1,5 @@
 # hello-world
-Starter git-hub repository
+
+Hi there!
+
+I like computer automation.
